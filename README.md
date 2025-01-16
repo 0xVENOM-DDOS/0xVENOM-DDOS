@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I’m Adarsh Kumar Singh!<br>I’m a third-year Information Technology student at MAKAUT, passionate about coding, cybersecurity, and software development. With hands-on experience in projects like DDoS protection systems, compiler development, and malware analysis, I enjoy tackling complex challenges. I’ve excelled in hackathons, secured top ranks in coding contests, and completed internships in web development and IT security. Currently, I’m expanding my expertise in .NET development and SQL Server while contributing to open-source projects.<br><br>I aim to leverage my skills to build innovative solutions and secure a high-impact tech role. Let's connect and create something amazing!
+👋 Hi, I’m Adarsh Kumar Singh!
+💻 Developer | 🔒 Cybersecurity Enthusiast
+🌟 Passionate about building innovative solutions and exploring the intersection of code and security. Always learning, always growing.
 
 
 ## 🌐 Socials:
